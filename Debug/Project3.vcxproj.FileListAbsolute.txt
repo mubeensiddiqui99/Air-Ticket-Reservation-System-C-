@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\Project3\Project3\Debug\Project3.vcxprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Project3\Project3\Debug\Project3.vcxproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Project3\Project3\Debug\Project3.Login.resources
+C:\Users\ASUS\source\repos\Project3\Project3\Debug\Project3.Reserve.resources
+C:\Users\ASUS\source\repos\Project3\Project3\Debug\Project3.Flights.resources
+C:\Users\ASUS\source\repos\Project3\Project3\Debug\Project3.Booking.resources
